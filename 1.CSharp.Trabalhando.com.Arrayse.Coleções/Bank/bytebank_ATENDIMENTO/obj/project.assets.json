@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub Projects\\TechTrainee24K\\1.CSharp.Trabalhando.com.Arrays.e.Coleções\\Bank\\bytebank_ATENDIMENTO\\bytebank_ATENDIMENTO.csproj",
+      "projectUniqueName": "D:\\GitHub Projects\\TechTrainee24K\\1.CSharp.Trabalhando.com.Arrayse.Coleções\\Bank\\bytebank_ATENDIMENTO\\bytebank_ATENDIMENTO.csproj",
       "projectName": "bytebank_ATENDIMENTO",
-      "projectPath": "D:\\GitHub Projects\\TechTrainee24K\\1.CSharp.Trabalhando.com.Arrays.e.Coleções\\Bank\\bytebank_ATENDIMENTO\\bytebank_ATENDIMENTO.csproj",
+      "projectPath": "D:\\GitHub Projects\\TechTrainee24K\\1.CSharp.Trabalhando.com.Arrayse.Coleções\\Bank\\bytebank_ATENDIMENTO\\bytebank_ATENDIMENTO.csproj",
       "packagesPath": "C:\\Users\\ponte\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub Projects\\TechTrainee24K\\1.CSharp.Trabalhando.com.Arrays.e.Coleções\\Bank\\bytebank_ATENDIMENTO\\obj\\",
+      "outputPath": "D:\\GitHub Projects\\TechTrainee24K\\1.CSharp.Trabalhando.com.Arrayse.Coleções\\Bank\\bytebank_ATENDIMENTO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ponte\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -62,24 +62,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.30, 6.0.30]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[6.0.30, 6.0.30]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.30, 6.0.30]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.30, 6.0.30]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
