@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\TechTrainee24K\\1- C# Trabalhando com Arrays e Cole\u00E7\u00F5es\\Bank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\TechTrainee24K\\1- C# Trabalhando com Arrays e Cole\u00E7\u00F5es\\Bank\\bytebank_ATENDIMENTO\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bytebank_ATENDIMENTO\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\TechTrainee24K\\1- C# Trabalhando com Arrays e Cole\u00E7\u00F5es\\Bank\\bytebank_ATENDIMENTO\\Program.cs",
+              "RelativeDocumentMoniker": "bytebank_ATENDIMENTO\\Program.cs",
+              "ToolTip": "C:\\Users\\ponte\\OneDrive\\Documentos\\GitHub Projects\\TechTrainee24K\\1- C# Trabalhando com Arrays e Cole\u00E7\u00F5es\\Bank\\bytebank_ATENDIMENTO\\Program.cs",
+              "RelativeToolTip": "bytebank_ATENDIMENTO\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T21:56:25.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
