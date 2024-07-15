@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ponte\\.nuget\\packages\\": {}
+    "C:\\Users\\felipe.p\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub Projects\\TechTrainee24K\\1.CSharp.Trabalhando.com.Arrayse.Coleções\\Bank\\bytebank_ATENDIMENTO\\bytebank_ATENDIMENTO.csproj",
+      "projectUniqueName": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\1.CSharp.Trabalhando.com.Arrayse.Coleções\\Bank\\bytebank_ATENDIMENTO\\bytebank_ATENDIMENTO.csproj",
       "projectName": "bytebank_ATENDIMENTO",
-      "projectPath": "D:\\GitHub Projects\\TechTrainee24K\\1.CSharp.Trabalhando.com.Arrayse.Coleções\\Bank\\bytebank_ATENDIMENTO\\bytebank_ATENDIMENTO.csproj",
-      "packagesPath": "C:\\Users\\ponte\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub Projects\\TechTrainee24K\\1.CSharp.Trabalhando.com.Arrayse.Coleções\\Bank\\bytebank_ATENDIMENTO\\obj\\",
+      "projectPath": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\1.CSharp.Trabalhando.com.Arrayse.Coleções\\Bank\\bytebank_ATENDIMENTO\\bytebank_ATENDIMENTO.csproj",
+      "packagesPath": "C:\\Users\\felipe.p\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\1.CSharp.Trabalhando.com.Arrayse.Coleções\\Bank\\bytebank_ATENDIMENTO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ponte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\felipe.p\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -62,12 +61,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.32, 6.0.32]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.32, 6.0.32]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.32, 6.0.32]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.32, 6.0.32]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }

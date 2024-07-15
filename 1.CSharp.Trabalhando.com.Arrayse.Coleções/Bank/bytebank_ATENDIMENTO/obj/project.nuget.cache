@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Q0lyM4wbiMA=",
+  "dgSpecHash": "nEK12kpR2Hg=",
   "success": true,
-  "projectFilePath": "D:\\GitHub Projects\\TechTrainee24K\\1.CSharp.Trabalhando.com.Arrayse.Coleções\\Bank\\bytebank_ATENDIMENTO\\bytebank_ATENDIMENTO.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\1.CSharp.Trabalhando.com.Arrayse.Coleções\\Bank\\bytebank_ATENDIMENTO\\bytebank_ATENDIMENTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\felipe.p\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.32\\microsoft.windowsdesktop.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\felipe.p\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.32\\microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\felipe.p\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.32\\microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\felipe.p\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.32\\microsoft.netcore.app.host.win-x64.6.0.32.nupkg.sha512"
+  ],
   "logs": []
 }
