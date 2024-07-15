@@ -3,45 +3,45 @@
   "WorkspaceRootPath": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\2.Csharp.aplicando.a.Orienta\u00E7\u00E3o.a.Objetos\\ScreenSound\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8CF130A5-E3BF-4132-A6A6-8585C2743543}|ScreenSound\\ScreenSound.csproj|c:\\users\\felipe.p\\documents\\github\\techtrainee24k\\2.csharp.aplicando.a.orienta\u00E7\u00E3o.a.objetos\\screensound\\screensound\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CF130A5-E3BF-4132-A6A6-8585C2743543}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8CF130A5-E3BF-4132-A6A6-8585C2743543}|ScreenSound\\ScreenSound.csproj|c:\\users\\felipe.p\\documents\\github\\techtrainee24k\\2.csharp.aplicando.a.orienta\u00E7\u00E3o.a.objetos\\screensound\\screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CF130A5-E3BF-4132-A6A6-8585C2743543}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF130A5-E3BF-4132-A6A6-8585C2743543}|ScreenSound\\ScreenSound.csproj|c:\\users\\felipe.p\\documents\\github\\techtrainee24k\\2.csharp.aplicando.a.orienta\u00E7\u00E3o.a.objetos\\screensound\\screensound\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF130A5-E3BF-4132-A6A6-8585C2743543}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 128,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\2.Csharp.aplicando.a.Orienta\u00E7\u00E3o.a.Objetos\\ScreenSound\\ScreenSound\\Program.cs",
               "RelativeDocumentMoniker": "ScreenSound\\Program.cs",
               "ToolTip": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\2.Csharp.aplicando.a.Orienta\u00E7\u00E3o.a.Objetos\\ScreenSound\\ScreenSound\\Program.cs",
               "RelativeToolTip": "ScreenSound\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-15T21:23:37.382Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Musica.cs",
               "DocumentMoniker": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\2.Csharp.aplicando.a.Orienta\u00E7\u00E3o.a.Objetos\\ScreenSound\\ScreenSound\\Musica.cs",
               "RelativeDocumentMoniker": "ScreenSound\\Musica.cs",
               "ToolTip": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\2.Csharp.aplicando.a.Orienta\u00E7\u00E3o.a.Objetos\\ScreenSound\\ScreenSound\\Musica.cs",
               "RelativeToolTip": "ScreenSound\\Musica.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAADwvxwAAAABAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwA0AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-15T21:27:17.664Z",
               "EditorCaption": ""
