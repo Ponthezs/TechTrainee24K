@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\2.Csharp.aplicando.a.Orientação.a.Objetos\\ScreenSound\\ScreenSound\\ScreenSound.csproj",
+      "projectUniqueName": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\2 - Csharp aplicando a Orientação a Objetos\\ScreenSound\\ScreenSound\\ScreenSound.csproj",
       "projectName": "ScreenSound",
-      "projectPath": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\2.Csharp.aplicando.a.Orientação.a.Objetos\\ScreenSound\\ScreenSound\\ScreenSound.csproj",
+      "projectPath": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\2 - Csharp aplicando a Orientação a Objetos\\ScreenSound\\ScreenSound\\ScreenSound.csproj",
       "packagesPath": "C:\\Users\\felipe.p\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\2.Csharp.aplicando.a.Orientação.a.Objetos\\ScreenSound\\ScreenSound\\obj\\",
+      "outputPath": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\2 - Csharp aplicando a Orientação a Objetos\\ScreenSound\\ScreenSound\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\felipe.p\\AppData\\Roaming\\NuGet\\NuGet.Config",
