@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ScreenSound"
+    "\\ScreenSound",
+    "\\ScreenSound\\Menus"
   ],
-  "SelectedNode": "\\ScreenSound\\Program.cs",
+  "SelectedNode": "\\ScreenSound\\Menus\\MenuAvaliarBanda.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -1,71 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\3 - Csharp dominando Orienta\u00E7\u00E3o a Objetos\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\felipe.p\\documents\\github\\techtrainee24k\\3 - csharp dominando orienta\u00E7\u00E3o a objetos\\screensound\\menus\\menuavaliarbanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\menus\\menuavaliarbanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\felipe.p\\documents\\github\\techtrainee24k\\3 - csharp dominando orienta\u00E7\u00E3o a objetos\\screensound\\menus\\menuexibirdetalhes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\menus\\menuexibirdetalhes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\felipe.p\\documents\\github\\techtrainee24k\\3 - csharp dominando orienta\u00E7\u00E3o a objetos\\screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 155,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MenuExibirDetalhes.cs",
-              "DocumentMoniker": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\3 - Csharp dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\Menus\\MenuExibirDetalhes.cs",
-              "RelativeDocumentMoniker": "ScreenSound\\Menus\\MenuExibirDetalhes.cs",
-              "ToolTip": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\3 - Csharp dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\Menus\\MenuExibirDetalhes.cs",
-              "RelativeToolTip": "ScreenSound\\Menus\\MenuExibirDetalhes.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T21:13:41.785Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MenuAvaliarBanda.cs",
-              "DocumentMoniker": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\3 - Csharp dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\Menus\\MenuAvaliarBanda.cs",
-              "RelativeDocumentMoniker": "ScreenSound\\Menus\\MenuAvaliarBanda.cs",
-              "ToolTip": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\3 - Csharp dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\Menus\\MenuAvaliarBanda.cs",
-              "RelativeToolTip": "ScreenSound\\Menus\\MenuAvaliarBanda.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T21:12:35.397Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\3 - Csharp dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\Program.cs",
-              "RelativeDocumentMoniker": "ScreenSound\\Program.cs",
-              "ToolTip": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\3 - Csharp dominando Orienta\u00E7\u00E3o a Objetos\\ScreenSound\\Program.cs",
-              "RelativeToolTip": "ScreenSound\\Program.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAQwIUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T21:47:12.657Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
