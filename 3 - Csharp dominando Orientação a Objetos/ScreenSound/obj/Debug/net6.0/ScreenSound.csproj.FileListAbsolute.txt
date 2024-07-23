@@ -13,3 +13,17 @@ C:\Users\felipe.p\Documents\GitHub\TechTrainee24K\3 - Csharp dominando Orientaç
 C:\Users\felipe.p\Documents\GitHub\TechTrainee24K\3 - Csharp dominando Orientação a Objetos\ScreenSound\obj\Debug\net6.0\ScreenSound.pdb
 C:\Users\felipe.p\Documents\GitHub\TechTrainee24K\3 - Csharp dominando Orientação a Objetos\ScreenSound\obj\Debug\net6.0\ScreenSound.genruntimeconfig.cache
 C:\Users\felipe.p\Documents\GitHub\TechTrainee24K\3 - Csharp dominando Orientação a Objetos\ScreenSound\obj\Debug\net6.0\ref\ScreenSound.dll
+C:\Users\felipe.p\Documents\GitHub\TechTrainee24K\3 - Csharp dominando Orientação a Objetos\ScreenSound\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\felipe.p\Documents\GitHub\TechTrainee24K\3 - Csharp dominando Orientação a Objetos\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\felipe.p\Documents\GitHub\TechTrainee24K\3 - Csharp dominando Orientação a Objetos\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\felipe.p\Documents\GitHub\TechTrainee24K\3 - Csharp dominando Orientação a Objetos\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\felipe.p\Documents\GitHub\TechTrainee24K\3 - Csharp dominando Orientação a Objetos\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\felipe.p\Documents\GitHub\TechTrainee24K\3 - Csharp dominando Orientação a Objetos\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+C:\Users\felipe.p\Documents\GitHub\TechTrainee24K\3 - Csharp dominando Orientação a Objetos\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\felipe.p\Documents\GitHub\TechTrainee24K\3 - Csharp dominando Orientação a Objetos\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\felipe.p\Documents\GitHub\TechTrainee24K\3 - Csharp dominando Orientação a Objetos\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\felipe.p\Documents\GitHub\TechTrainee24K\3 - Csharp dominando Orientação a Objetos\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\felipe.p\Documents\GitHub\TechTrainee24K\3 - Csharp dominando Orientação a Objetos\ScreenSound\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\felipe.p\Documents\GitHub\TechTrainee24K\3 - Csharp dominando Orientação a Objetos\ScreenSound\bin\Debug\net6.0\OpenAI_API.dll
+C:\Users\felipe.p\Documents\GitHub\TechTrainee24K\3 - Csharp dominando Orientação a Objetos\ScreenSound\obj\Debug\net6.0\ScreenSound.csproj.AssemblyReference.cache
+C:\Users\felipe.p\Documents\GitHub\TechTrainee24K\3 - Csharp dominando Orientação a Objetos\ScreenSound\obj\Debug\net6.0\ScreenSo.4E60E543.Up2Date
