@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{EBE7F3A2-E89B-492B-8AF7-20C53D6AB96F}|ScreenSound-04\\ScreenSound-04.csproj|solutionrelative:screensound-04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{EBE7F3A2-E89B-492B-8AF7-20C53D6AB96F}|ScreenSound-04\\ScreenSound-04.csproj|c:\\users\\felipe.p\\documents\\github\\techtrainee24k\\4 - csharp consumindo api, gravando arquivos e utilizando o linq\\screensound-04\\screensound-04\\filtros\\linqfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE7F3A2-E89B-492B-8AF7-20C53D6AB96F}|ScreenSound-04\\ScreenSound-04.csproj|solutionrelative:screensound-04\\filtros\\linqfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE7F3A2-E89B-492B-8AF7-20C53D6AB96F}|ScreenSound-04\\ScreenSound-04.csproj|c:\\users\\felipe.p\\documents\\github\\techtrainee24k\\4 - csharp consumindo api, gravando arquivos e utilizando o linq\\screensound-04\\screensound-04\\filtros\\linqorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE7F3A2-E89B-492B-8AF7-20C53D6AB96F}|ScreenSound-04\\ScreenSound-04.csproj|solutionrelative:screensound-04\\filtros\\linqorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EBE7F3A2-E89B-492B-8AF7-20C53D6AB96F}|ScreenSound-04\\ScreenSound-04.csproj|c:\\users\\felipe.p\\documents\\github\\techtrainee24k\\4 - csharp consumindo api, gravando arquivos e utilizando o linq\\screensound-04\\screensound-04\\modelos\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBE7F3A2-E89B-492B-8AF7-20C53D6AB96F}|ScreenSound-04\\ScreenSound-04.csproj|solutionrelative:screensound-04\\modelos\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,11 +26,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LinqOrder.cs",
+              "DocumentMoniker": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\4 - Csharp consumindo API, gravando arquivos e utilizando o LINQ\\ScreenSound-04\\ScreenSound-04\\Filtros\\LinqOrder.cs",
+              "RelativeDocumentMoniker": "ScreenSound-04\\Filtros\\LinqOrder.cs",
+              "ToolTip": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\4 - Csharp consumindo API, gravando arquivos e utilizando o LINQ\\ScreenSound-04\\ScreenSound-04\\Filtros\\LinqOrder.cs",
+              "RelativeToolTip": "ScreenSound-04\\Filtros\\LinqOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T21:00:29.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "LinqFilter.cs",
+              "DocumentMoniker": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\4 - Csharp consumindo API, gravando arquivos e utilizando o LINQ\\ScreenSound-04\\ScreenSound-04\\Filtros\\LinqFilter.cs",
+              "RelativeDocumentMoniker": "ScreenSound-04\\Filtros\\LinqFilter.cs",
+              "ToolTip": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\4 - Csharp consumindo API, gravando arquivos e utilizando o LINQ\\ScreenSound-04\\ScreenSound-04\\Filtros\\LinqFilter.cs",
+              "RelativeToolTip": "ScreenSound-04\\Filtros\\LinqFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T20:52:59.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Musica.cs",
               "DocumentMoniker": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\4 - Csharp consumindo API, gravando arquivos e utilizando o LINQ\\ScreenSound-04\\ScreenSound-04\\Modelos\\Musica.cs",
               "RelativeDocumentMoniker": "ScreenSound-04\\Modelos\\Musica.cs",
@@ -41,7 +75,7 @@
               "RelativeDocumentMoniker": "ScreenSound-04\\Program.cs",
               "ToolTip": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\4 - Csharp consumindo API, gravando arquivos e utilizando o LINQ\\ScreenSound-04\\ScreenSound-04\\Program.cs",
               "RelativeToolTip": "ScreenSound-04\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-24T21:18:08.681Z",
               "EditorCaption": ""
