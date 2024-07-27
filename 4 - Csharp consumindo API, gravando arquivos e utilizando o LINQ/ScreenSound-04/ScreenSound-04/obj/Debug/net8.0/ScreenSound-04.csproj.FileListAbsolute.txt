@@ -13,3 +13,18 @@ C:\Users\felipe.p\Documents\GitHub\TechTrainee24K\4 - Csharp consumindo API, gra
 C:\Users\felipe.p\Documents\GitHub\TechTrainee24K\4 - Csharp consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.pdb
 C:\Users\felipe.p\Documents\GitHub\TechTrainee24K\4 - Csharp consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.genruntimeconfig.cache
 C:\Users\felipe.p\Documents\GitHub\TechTrainee24K\4 - Csharp consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ref\ScreenSound-04.dll
+D:\GitHub Projects\TechTrainee24K\4 - Csharp consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\ScreenSound-04\bin\Debug\net8.0\ScreenSound-04.exe
+D:\GitHub Projects\TechTrainee24K\4 - Csharp consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\ScreenSound-04\bin\Debug\net8.0\ScreenSound-04.deps.json
+D:\GitHub Projects\TechTrainee24K\4 - Csharp consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\ScreenSound-04\bin\Debug\net8.0\ScreenSound-04.runtimeconfig.json
+D:\GitHub Projects\TechTrainee24K\4 - Csharp consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\ScreenSound-04\bin\Debug\net8.0\ScreenSound-04.dll
+D:\GitHub Projects\TechTrainee24K\4 - Csharp consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\ScreenSound-04\bin\Debug\net8.0\ScreenSound-04.pdb
+D:\GitHub Projects\TechTrainee24K\4 - Csharp consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Projects\TechTrainee24K\4 - Csharp consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.AssemblyInfoInputs.cache
+D:\GitHub Projects\TechTrainee24K\4 - Csharp consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.AssemblyInfo.cs
+D:\GitHub Projects\TechTrainee24K\4 - Csharp consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.csproj.CoreCompileInputs.cache
+D:\GitHub Projects\TechTrainee24K\4 - Csharp consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.sourcelink.json
+D:\GitHub Projects\TechTrainee24K\4 - Csharp consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.dll
+D:\GitHub Projects\TechTrainee24K\4 - Csharp consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\refint\ScreenSound-04.dll
+D:\GitHub Projects\TechTrainee24K\4 - Csharp consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.pdb
+D:\GitHub Projects\TechTrainee24K\4 - Csharp consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.genruntimeconfig.cache
+D:\GitHub Projects\TechTrainee24K\4 - Csharp consumindo API, gravando arquivos e utilizando o LINQ\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ref\ScreenSound-04.dll
