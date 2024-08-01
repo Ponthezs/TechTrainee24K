@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\7 - Csharp criando e distribuindo bibliotecas em .NET\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95517C19-CA38-440D-9B63-F03C0B88D349}|bytebank_ATENDIMENTO\\bytebank_ATENDIMENTO.csproj|c:\\users\\felipe.p\\documents\\github\\techtrainee24k\\7 - csharp criando e distribuindo bibliotecas em .net\\bytebank_atendimento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95517C19-CA38-440D-9B63-F03C0B88D349}|bytebank_ATENDIMENTO\\bytebank_ATENDIMENTO.csproj|solutionrelative:bytebank_atendimento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5EE78E-3DA6-4A28-8133-351538789EDC}|bytebank_Modelos\\bytebank_Modelos.csproj|c:\\users\\felipe.p\\documents\\github\\techtrainee24k\\7 - csharp criando e distribuindo bibliotecas em .net\\bytebank_modelos\\bytebank.modelos\\adm\\utilitario\\autenticacaoutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5EE78E-3DA6-4A28-8133-351538789EDC}|bytebank_Modelos\\bytebank_Modelos.csproj|solutionrelative:bytebank_modelos\\bytebank.modelos\\adm\\utilitario\\autenticacaoutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5EE78E-3DA6-4A28-8133-351538789EDC}|bytebank_Modelos\\bytebank_Modelos.csproj|c:\\users\\felipe.p\\documents\\github\\techtrainee24k\\7 - csharp criando e distribuindo bibliotecas em .net\\bytebank_modelos\\bytebank.modelos\\adm\\parceriacomercial\\parceirocomercial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5EE78E-3DA6-4A28-8133-351538789EDC}|bytebank_Modelos\\bytebank_Modelos.csproj|solutionrelative:bytebank_modelos\\bytebank.modelos\\adm\\parceriacomercial\\parceirocomercial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5EE78E-3DA6-4A28-8133-351538789EDC}|bytebank_Modelos\\bytebank_Modelos.csproj|c:\\users\\felipe.p\\documents\\github\\techtrainee24k\\7 - csharp criando e distribuindo bibliotecas em .net\\bytebank_modelos\\bytebank.modelos\\adm\\funcionarios\\funcionarioautenticavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5EE78E-3DA6-4A28-8133-351538789EDC}|bytebank_Modelos\\bytebank_Modelos.csproj|solutionrelative:bytebank_modelos\\bytebank.modelos\\adm\\funcionarios\\funcionarioautenticavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95517C19-CA38-440D-9B63-F03C0B88D349}|bytebank_ATENDIMENTO\\bytebank_ATENDIMENTO.csproj|c:\\users\\felipe.p\\documents\\github\\techtrainee24k\\7 - csharp criando e distribuindo bibliotecas em .net\\bytebank_atendimento\\bytebank.atendimento\\bytebankatendimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95517C19-CA38-440D-9B63-F03C0B88D349}|bytebank_ATENDIMENTO\\bytebank_ATENDIMENTO.csproj|solutionrelative:bytebank_atendimento\\bytebank.atendimento\\bytebankatendimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 100,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\7 - Csharp criando e distribuindo bibliotecas em .NET\\bytebank_ATENDIMENTO\\Program.cs",
+              "RelativeDocumentMoniker": "bytebank_ATENDIMENTO\\Program.cs",
+              "ToolTip": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\7 - Csharp criando e distribuindo bibliotecas em .NET\\bytebank_ATENDIMENTO\\Program.cs",
+              "RelativeToolTip": "bytebank_ATENDIMENTO\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T22:52:42.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutenticacaoUtil.cs",
+              "DocumentMoniker": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\7 - Csharp criando e distribuindo bibliotecas em .NET\\bytebank_Modelos\\bytebank.Modelos\\ADM\\Utilitario\\AutenticacaoUtil.cs",
+              "RelativeDocumentMoniker": "bytebank_Modelos\\bytebank.Modelos\\ADM\\Utilitario\\AutenticacaoUtil.cs",
+              "ToolTip": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\7 - Csharp criando e distribuindo bibliotecas em .NET\\bytebank_Modelos\\bytebank.Modelos\\ADM\\Utilitario\\AutenticacaoUtil.cs",
+              "RelativeToolTip": "bytebank_Modelos\\bytebank.Modelos\\ADM\\Utilitario\\AutenticacaoUtil.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T22:01:00.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ParceiroComercial.cs",
+              "DocumentMoniker": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\7 - Csharp criando e distribuindo bibliotecas em .NET\\bytebank_Modelos\\bytebank.Modelos\\ADM\\ParceriaComercial\\ParceiroComercial.cs",
+              "RelativeDocumentMoniker": "bytebank_Modelos\\bytebank.Modelos\\ADM\\ParceriaComercial\\ParceiroComercial.cs",
+              "ToolTip": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\7 - Csharp criando e distribuindo bibliotecas em .NET\\bytebank_Modelos\\bytebank.Modelos\\ADM\\ParceriaComercial\\ParceiroComercial.cs",
+              "RelativeToolTip": "bytebank_Modelos\\bytebank.Modelos\\ADM\\ParceriaComercial\\ParceiroComercial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T21:59:41.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FuncionarioAutenticavel.cs",
+              "DocumentMoniker": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\7 - Csharp criando e distribuindo bibliotecas em .NET\\bytebank_Modelos\\bytebank.Modelos\\ADM\\Funcionarios\\FuncionarioAutenticavel.cs",
+              "RelativeDocumentMoniker": "bytebank_Modelos\\bytebank.Modelos\\ADM\\Funcionarios\\FuncionarioAutenticavel.cs",
+              "ToolTip": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\7 - Csharp criando e distribuindo bibliotecas em .NET\\bytebank_Modelos\\bytebank.Modelos\\ADM\\Funcionarios\\FuncionarioAutenticavel.cs",
+              "RelativeToolTip": "bytebank_Modelos\\bytebank.Modelos\\ADM\\Funcionarios\\FuncionarioAutenticavel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T21:59:12.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ByteBankAtendimento.cs",
+              "DocumentMoniker": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\7 - Csharp criando e distribuindo bibliotecas em .NET\\bytebank_ATENDIMENTO\\bytebank.Atendimento\\ByteBankAtendimento.cs",
+              "RelativeDocumentMoniker": "bytebank_ATENDIMENTO\\bytebank.Atendimento\\ByteBankAtendimento.cs",
+              "ToolTip": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\7 - Csharp criando e distribuindo bibliotecas em .NET\\bytebank_ATENDIMENTO\\bytebank.Atendimento\\ByteBankAtendimento.cs",
+              "RelativeToolTip": "bytebank_ATENDIMENTO\\bytebank.Atendimento\\ByteBankAtendimento.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAmwF4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T20:58:31.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
