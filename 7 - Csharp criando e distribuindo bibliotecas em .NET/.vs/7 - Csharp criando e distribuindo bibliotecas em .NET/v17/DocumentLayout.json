@@ -10,7 +10,7 @@
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "bytebank_ATENDIMENTO\\Program.cs",
               "ToolTip": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\7 - Csharp criando e distribuindo bibliotecas em .NET\\bytebank_ATENDIMENTO\\Program.cs",
               "RelativeToolTip": "bytebank_ATENDIMENTO\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-01T20:56:06.896Z",
               "EditorCaption": ""

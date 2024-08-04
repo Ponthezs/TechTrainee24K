@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bytebank_GeradorChavePix", "bytebank_GeradorChavePix\bytebank_GeradorChavePix.csproj", "{E9517744-7283-482E-9740-50F308F98CBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9517744-7283-482E-9740-50F308F98CBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9517744-7283-482E-9740-50F308F98CBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9517744-7283-482E-9740-50F308F98CBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9517744-7283-482E-9740-50F308F98CBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94DB1001-D618-4253-A999-2F3FEF80615A}
+	EndGlobalSection
+EndGlobal

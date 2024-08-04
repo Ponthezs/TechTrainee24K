@@ -1,0 +1,12 @@
+C:\Users\felipe.p\Documents\GitHub\TechTrainee24K\bytebank_GeradorChavePix\bytebank_GeradorChavePix\bin\Debug\net8.0\bytebank_GeradorChavePix.deps.json
+C:\Users\felipe.p\Documents\GitHub\TechTrainee24K\bytebank_GeradorChavePix\bytebank_GeradorChavePix\bin\Debug\net8.0\bytebank_GeradorChavePix.dll
+C:\Users\felipe.p\Documents\GitHub\TechTrainee24K\bytebank_GeradorChavePix\bytebank_GeradorChavePix\bin\Debug\net8.0\bytebank_GeradorChavePix.pdb
+C:\Users\felipe.p\Documents\GitHub\TechTrainee24K\bytebank_GeradorChavePix\bytebank_GeradorChavePix\obj\Debug\net8.0\bytebank_GeradorChavePix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.p\Documents\GitHub\TechTrainee24K\bytebank_GeradorChavePix\bytebank_GeradorChavePix\obj\Debug\net8.0\bytebank_GeradorChavePix.AssemblyInfoInputs.cache
+C:\Users\felipe.p\Documents\GitHub\TechTrainee24K\bytebank_GeradorChavePix\bytebank_GeradorChavePix\obj\Debug\net8.0\bytebank_GeradorChavePix.AssemblyInfo.cs
+C:\Users\felipe.p\Documents\GitHub\TechTrainee24K\bytebank_GeradorChavePix\bytebank_GeradorChavePix\obj\Debug\net8.0\bytebank_GeradorChavePix.csproj.CoreCompileInputs.cache
+C:\Users\felipe.p\Documents\GitHub\TechTrainee24K\bytebank_GeradorChavePix\bytebank_GeradorChavePix\obj\Debug\net8.0\bytebank_GeradorChavePix.sourcelink.json
+C:\Users\felipe.p\Documents\GitHub\TechTrainee24K\bytebank_GeradorChavePix\bytebank_GeradorChavePix\obj\Debug\net8.0\bytebank_GeradorChavePix.dll
+C:\Users\felipe.p\Documents\GitHub\TechTrainee24K\bytebank_GeradorChavePix\bytebank_GeradorChavePix\obj\Debug\net8.0\refint\bytebank_GeradorChavePix.dll
+C:\Users\felipe.p\Documents\GitHub\TechTrainee24K\bytebank_GeradorChavePix\bytebank_GeradorChavePix\obj\Debug\net8.0\bytebank_GeradorChavePix.pdb
+C:\Users\felipe.p\Documents\GitHub\TechTrainee24K\bytebank_GeradorChavePix\bytebank_GeradorChavePix\obj\Debug\net8.0\ref\bytebank_GeradorChavePix.dll

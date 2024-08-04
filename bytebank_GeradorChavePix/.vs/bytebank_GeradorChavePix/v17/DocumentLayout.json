@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\bytebank_GeradorChavePix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9517744-7283-482E-9740-50F308F98CBB}|bytebank_GeradorChavePix\\bytebank_GeradorChavePix.csproj|c:\\users\\felipe.p\\documents\\github\\techtrainee24k\\bytebank_geradorchavepix\\bytebank_geradorchavepix\\geradorpix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9517744-7283-482E-9740-50F308F98CBB}|bytebank_GeradorChavePix\\bytebank_GeradorChavePix.csproj|solutionrelative:bytebank_geradorchavepix\\geradorpix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GeradorPix.cs",
+              "DocumentMoniker": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\bytebank_GeradorChavePix\\bytebank_GeradorChavePix\\GeradorPix.cs",
+              "RelativeDocumentMoniker": "bytebank_GeradorChavePix\\GeradorPix.cs",
+              "ToolTip": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\bytebank_GeradorChavePix\\bytebank_GeradorChavePix\\GeradorPix.cs",
+              "RelativeToolTip": "bytebank_GeradorChavePix\\GeradorPix.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T22:48:02.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
