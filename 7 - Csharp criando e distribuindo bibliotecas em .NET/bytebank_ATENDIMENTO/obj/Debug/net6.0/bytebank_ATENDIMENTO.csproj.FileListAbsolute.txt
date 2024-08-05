@@ -18,3 +18,12 @@ C:\Users\felipe.p\Documents\GitHub\TechTrainee24K\7 - Csharp criando e distribui
 C:\Users\felipe.p\Documents\GitHub\TechTrainee24K\7 - Csharp criando e distribuindo bibliotecas em .NET\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.pdb
 C:\Users\felipe.p\Documents\GitHub\TechTrainee24K\7 - Csharp criando e distribuindo bibliotecas em .NET\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.genruntimeconfig.cache
 C:\Users\felipe.p\Documents\GitHub\TechTrainee24K\7 - Csharp criando e distribuindo bibliotecas em .NET\bytebank_ATENDIMENTO\obj\Debug\net6.0\ref\bytebank_ATENDIMENTO.dll
+D:\GitHub Projects\TechTrainee24K\7 - Csharp criando e distribuindo bibliotecas em .NET\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.csproj.AssemblyReference.cache
+D:\GitHub Projects\TechTrainee24K\7 - Csharp criando e distribuindo bibliotecas em .NET\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Projects\TechTrainee24K\7 - Csharp criando e distribuindo bibliotecas em .NET\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.AssemblyInfoInputs.cache
+D:\GitHub Projects\TechTrainee24K\7 - Csharp criando e distribuindo bibliotecas em .NET\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.AssemblyInfo.cs
+D:\GitHub Projects\TechTrainee24K\7 - Csharp criando e distribuindo bibliotecas em .NET\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.csproj.CoreCompileInputs.cache
+D:\GitHub Projects\TechTrainee24K\7 - Csharp criando e distribuindo bibliotecas em .NET\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.sourcelink.json
+D:\GitHub Projects\TechTrainee24K\7 - Csharp criando e distribuindo bibliotecas em .NET\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.dll
+D:\GitHub Projects\TechTrainee24K\7 - Csharp criando e distribuindo bibliotecas em .NET\bytebank_ATENDIMENTO\obj\Debug\net6.0\refint\bytebank_ATENDIMENTO.dll
+D:\GitHub Projects\TechTrainee24K\7 - Csharp criando e distribuindo bibliotecas em .NET\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.pdb

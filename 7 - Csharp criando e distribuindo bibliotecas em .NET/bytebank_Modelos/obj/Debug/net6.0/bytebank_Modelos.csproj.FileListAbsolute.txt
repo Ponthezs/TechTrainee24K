@@ -10,3 +10,11 @@ C:\Users\felipe.p\Documents\GitHub\TechTrainee24K\7 - Csharp criando e distribui
 C:\Users\felipe.p\Documents\GitHub\TechTrainee24K\7 - Csharp criando e distribuindo bibliotecas em .NET\bytebank_Modelos\obj\Debug\net6.0\refint\bytebank_Modelos.dll
 C:\Users\felipe.p\Documents\GitHub\TechTrainee24K\7 - Csharp criando e distribuindo bibliotecas em .NET\bytebank_Modelos\obj\Debug\net6.0\bytebank_Modelos.pdb
 C:\Users\felipe.p\Documents\GitHub\TechTrainee24K\7 - Csharp criando e distribuindo bibliotecas em .NET\bytebank_Modelos\obj\Debug\net6.0\ref\bytebank_Modelos.dll
+D:\GitHub Projects\TechTrainee24K\7 - Csharp criando e distribuindo bibliotecas em .NET\bytebank_Modelos\obj\Debug\net6.0\bytebank_Modelos.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Projects\TechTrainee24K\7 - Csharp criando e distribuindo bibliotecas em .NET\bytebank_Modelos\obj\Debug\net6.0\bytebank_Modelos.AssemblyInfoInputs.cache
+D:\GitHub Projects\TechTrainee24K\7 - Csharp criando e distribuindo bibliotecas em .NET\bytebank_Modelos\obj\Debug\net6.0\bytebank_Modelos.AssemblyInfo.cs
+D:\GitHub Projects\TechTrainee24K\7 - Csharp criando e distribuindo bibliotecas em .NET\bytebank_Modelos\obj\Debug\net6.0\bytebank_Modelos.csproj.CoreCompileInputs.cache
+D:\GitHub Projects\TechTrainee24K\7 - Csharp criando e distribuindo bibliotecas em .NET\bytebank_Modelos\obj\Debug\net6.0\bytebank_Modelos.sourcelink.json
+D:\GitHub Projects\TechTrainee24K\7 - Csharp criando e distribuindo bibliotecas em .NET\bytebank_Modelos\obj\Debug\net6.0\bytebank_Modelos.dll
+D:\GitHub Projects\TechTrainee24K\7 - Csharp criando e distribuindo bibliotecas em .NET\bytebank_Modelos\obj\Debug\net6.0\refint\bytebank_Modelos.dll
+D:\GitHub Projects\TechTrainee24K\7 - Csharp criando e distribuindo bibliotecas em .NET\bytebank_Modelos\obj\Debug\net6.0\bytebank_Modelos.pdb
