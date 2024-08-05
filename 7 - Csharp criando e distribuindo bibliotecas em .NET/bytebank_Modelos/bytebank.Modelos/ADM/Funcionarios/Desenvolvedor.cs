@@ -11,7 +11,7 @@
             this.Salario *= 0.15;
         }
 
-        internal override double getBonificacao()
+        public override double getBonificacao()
         {
             return this.Salario * 0.1;
         }
