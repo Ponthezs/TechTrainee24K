@@ -2,10 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\bytebank_ATENDIMENTO",
+    "\\bytebank_ATENDIMENTO\\bytebank.Atendimento",
+    "\\bytebank_ATENDIMENTO\\bytebank.Exceptions",
     "\\bytebank_Modelos",
     "\\bytebank_Modelos\\bytebank.Modelos",
+    "\\bytebank_Modelos\\bytebank.Modelos\\ADM",
+    "\\bytebank_Modelos\\bytebank.Modelos\\ADM\\ParceriaComercial",
     "\\bytebank_Modelos\\bytebank.Modelos\\Conta"
   ],
-  "SelectedNode": "\\bytebank_Modelos\\bytebank.Modelos\\Conta\\ContaCorrente.cs",
+  "SelectedNode": "\\bytebank_Modelos\\bytebank.Modelos\\ADM\\ParceriaComercial\\ParceiroComercial.cs",
   "PreviewInSolutionExplorer": false
 }
