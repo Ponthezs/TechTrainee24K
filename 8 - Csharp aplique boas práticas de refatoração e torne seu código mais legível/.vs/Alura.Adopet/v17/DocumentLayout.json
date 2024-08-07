@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\8 - Csharp aplique boas pr\u00E1ticas de refatora\u00E7\u00E3o e torne seu c\u00F3digo mais leg\u00EDvel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC4860C-35AD-4396-B20F-547C44F680CC}|Alura.Adopet.Console\\Alura.Adopet.Console.csproj|c:\\users\\felipe.p\\documents\\github\\techtrainee24k\\8 - csharp aplique boas pr\u00E1ticas de refatora\u00E7\u00E3o e torne seu c\u00F3digo mais leg\u00EDvel\\alura.adopet.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC4860C-35AD-4396-B20F-547C44F680CC}|Alura.Adopet.Console\\Alura.Adopet.Console.csproj|solutionrelative:alura.adopet.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\8 - Csharp aplique boas pr\u00E1ticas de refatora\u00E7\u00E3o e torne seu c\u00F3digo mais leg\u00EDvel\\Alura.Adopet.Console\\Program.cs",
+              "RelativeDocumentMoniker": "Alura.Adopet.Console\\Program.cs",
+              "ToolTip": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\8 - Csharp aplique boas pr\u00E1ticas de refatora\u00E7\u00E3o e torne seu c\u00F3digo mais leg\u00EDvel\\Alura.Adopet.Console\\Program.cs",
+              "RelativeToolTip": "Alura.Adopet.Console\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T22:29:18.098Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
