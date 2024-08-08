@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Alura.Adopet.Console")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62aa343204dd41f964c2c67ec0011b1c4a360134")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d7936409c4a3a566b5408221d2cc441aefaea43")]
 [assembly: System.Reflection.AssemblyProductAttribute("Alura.Adopet.Console")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Alura.Adopet.Console")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

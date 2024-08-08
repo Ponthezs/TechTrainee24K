@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\8 - Csharp aplique boas práticas de refatoração e torne seu código mais legível\\Alura.Adopet.Console\\Alura.Adopet.Console.csproj": {}
+    "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\8 - Csharp aplique boas práticas de refatoração\\Alura.Adopet.Console\\Alura.Adopet.Console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\8 - Csharp aplique boas práticas de refatoração e torne seu código mais legível\\Alura.Adopet.Console\\Alura.Adopet.Console.csproj": {
+    "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\8 - Csharp aplique boas práticas de refatoração\\Alura.Adopet.Console\\Alura.Adopet.Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\8 - Csharp aplique boas práticas de refatoração e torne seu código mais legível\\Alura.Adopet.Console\\Alura.Adopet.Console.csproj",
+        "projectUniqueName": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\8 - Csharp aplique boas práticas de refatoração\\Alura.Adopet.Console\\Alura.Adopet.Console.csproj",
         "projectName": "Alura.Adopet.Console",
-        "projectPath": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\8 - Csharp aplique boas práticas de refatoração e torne seu código mais legível\\Alura.Adopet.Console\\Alura.Adopet.Console.csproj",
+        "projectPath": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\8 - Csharp aplique boas práticas de refatoração\\Alura.Adopet.Console\\Alura.Adopet.Console.csproj",
         "packagesPath": "C:\\Users\\felipe.p\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\8 - Csharp aplique boas práticas de refatoração e torne seu código mais legível\\Alura.Adopet.Console\\obj\\",
+        "outputPath": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\8 - Csharp aplique boas práticas de refatoração\\Alura.Adopet.Console\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\felipe.p\\AppData\\Roaming\\NuGet\\NuGet.Config",

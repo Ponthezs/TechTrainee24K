@@ -17,18 +17,18 @@ namespace Alura.Adopet.Console
         }
         public async Task ImportacaoArquivoPetAsync(string caminhoDoArquivoDeImportacao)
         {
-            List<Pet> listaDePet = new List<Pet>();
+            List<Pet> listaDePet = new List<Pet>();           
             using (StreamReader sr = new StreamReader(caminhoDoArquivoDeImportacao))
             {
-                System.Console.WriteLine("----- Dados Importados -----");
+                System.Console.WriteLine("----- Dados importados -----");
                 while (!sr.EndOfStream)
                 {
                     // separa linha usando ponto e vírgula
-                    string[] propriedades = sr.ReadLine().Split(';');
+                    string[]? propriedades = sr.ReadLine().Split(';');
                     // cria objeto Pet a partir da separação
                     Pet pet = new Pet(Guid.Parse(propriedades[0]),
                       propriedades[1],
-                      TipoPet.Cachorro
+                      int.Parse(propriedades[2]) == 1 ? TipoPet.Gato : TipoPet.Cachorro
                      );
 
                     System.Console.WriteLine(pet);
@@ -48,6 +48,7 @@ namespace Alura.Adopet.Console
             }
             System.Console.WriteLine("Importação concluída!");
         }
+
         Task<HttpResponseMessage> CreatePetAsync(Pet pet)
         {
             HttpResponseMessage? response = null;

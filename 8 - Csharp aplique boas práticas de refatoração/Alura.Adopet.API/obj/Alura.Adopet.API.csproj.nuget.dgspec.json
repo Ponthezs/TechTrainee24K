@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\8 - Csharp aplique boas práticas de refatoração e torne seu código mais legível\\Alura.Adopet.API\\Alura.Adopet.API.csproj": {}
+    "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\8 - Csharp aplique boas práticas de refatoração\\Alura.Adopet.API\\Alura.Adopet.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\8 - Csharp aplique boas práticas de refatoração e torne seu código mais legível\\Alura.Adopet.API\\Alura.Adopet.API.csproj": {
+    "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\8 - Csharp aplique boas práticas de refatoração\\Alura.Adopet.API\\Alura.Adopet.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\8 - Csharp aplique boas práticas de refatoração e torne seu código mais legível\\Alura.Adopet.API\\Alura.Adopet.API.csproj",
+        "projectUniqueName": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\8 - Csharp aplique boas práticas de refatoração\\Alura.Adopet.API\\Alura.Adopet.API.csproj",
         "projectName": "Alura.Adopet.API",
-        "projectPath": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\8 - Csharp aplique boas práticas de refatoração e torne seu código mais legível\\Alura.Adopet.API\\Alura.Adopet.API.csproj",
+        "projectPath": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\8 - Csharp aplique boas práticas de refatoração\\Alura.Adopet.API\\Alura.Adopet.API.csproj",
         "packagesPath": "C:\\Users\\felipe.p\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\8 - Csharp aplique boas práticas de refatoração e torne seu código mais legível\\Alura.Adopet.API\\obj\\",
+        "outputPath": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\8 - Csharp aplique boas práticas de refatoração\\Alura.Adopet.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\felipe.p\\AppData\\Roaming\\NuGet\\NuGet.Config",

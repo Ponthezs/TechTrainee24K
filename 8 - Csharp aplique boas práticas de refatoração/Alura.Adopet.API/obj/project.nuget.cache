@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RSfiC5FOSXs=",
+  "dgSpecHash": "0kIkEPB3J7c=",
   "success": true,
-  "projectFilePath": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\8 - Csharp aplique boas práticas de refatoração e torne seu código mais legível\\Alura.Adopet.API\\Alura.Adopet.API.csproj",
+  "projectFilePath": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\8 - Csharp aplique boas práticas de refatoração\\Alura.Adopet.API\\Alura.Adopet.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\felipe.p\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\7.0.0\\microsoft.aspnetcore.jsonpatch.7.0.0.nupkg.sha512",
     "C:\\Users\\felipe.p\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\7.0.0\\microsoft.aspnetcore.mvc.newtonsoftjson.7.0.0.nupkg.sha512",
