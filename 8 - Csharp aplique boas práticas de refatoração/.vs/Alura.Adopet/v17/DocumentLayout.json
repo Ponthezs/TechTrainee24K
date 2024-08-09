@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\8 - Csharp aplique boas pr\u00E1ticas de refatora\u00E7\u00E3o\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CDC4860C-35AD-4396-B20F-547C44F680CC}|Alura.Adopet.Console\\Alura.Adopet.Console.csproj|c:\\users\\felipe.p\\documents\\github\\techtrainee24k\\8 - csharp aplique boas pr\u00E1ticas de refatora\u00E7\u00E3o\\alura.adopet.console\\show.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDC4860C-35AD-4396-B20F-547C44F680CC}|Alura.Adopet.Console\\Alura.Adopet.Console.csproj|solutionrelative:alura.adopet.console\\show.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CDC4860C-35AD-4396-B20F-547C44F680CC}|Alura.Adopet.Console\\Alura.Adopet.Console.csproj|c:\\users\\felipe.p\\documents\\github\\techtrainee24k\\8 - csharp aplique boas pr\u00E1ticas de refatora\u00E7\u00E3o\\alura.adopet.console\\comandos\\help.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC4860C-35AD-4396-B20F-547C44F680CC}|Alura.Adopet.Console\\Alura.Adopet.Console.csproj|solutionrelative:alura.adopet.console\\comandos\\help.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDC4860C-35AD-4396-B20F-547C44F680CC}|Alura.Adopet.Console\\Alura.Adopet.Console.csproj|c:\\users\\felipe.p\\documents\\github\\techtrainee24k\\8 - csharp aplique boas pr\u00E1ticas de refatora\u00E7\u00E3o\\alura.adopet.console\\leitordearquivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDC4860C-35AD-4396-B20F-547C44F680CC}|Alura.Adopet.Console\\Alura.Adopet.Console.csproj|solutionrelative:alura.adopet.console\\leitordearquivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\8 - Csharp aplique boas pr\u00E1ticas de refatora\u00E7\u00E3o\\Alura.Adopet.Console\\Help.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Alura.Adopet.Console\\Help.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CDC4860C-35AD-4396-B20F-547C44F680CC}|Alura.Adopet.Console\\Alura.Adopet.Console.csproj|c:\\users\\felipe.p\\documents\\github\\techtrainee24k\\8 - csharp aplique boas pr\u00E1ticas de refatora\u00E7\u00E3o\\alura.adopet.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,8 +19,16 @@
       "RelativeMoniker": "D:0:0:{1EFD091A-90B3-42C9-90D0-1B73FA46C5C1}|Alura.Adopet.API\\Alura.Adopet.API.csproj|solutionrelative:alura.adopet.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDC4860C-35AD-4396-B20F-547C44F680CC}|Alura.Adopet.Console\\Alura.Adopet.Console.csproj|c:\\users\\felipe.p\\documents\\github\\techtrainee24k\\8 - csharp aplique boas pr\u00E1ticas de refatora\u00E7\u00E3o\\alura.adopet.console\\import.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDC4860C-35AD-4396-B20F-547C44F680CC}|Alura.Adopet.Console\\Alura.Adopet.Console.csproj|solutionrelative:alura.adopet.console\\import.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\8 - Csharp aplique boas pr\u00E1ticas de refatora\u00E7\u00E3o\\Alura.Adopet.Console\\LeitorDeArquivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Alura.Adopet.Console\\LeitorDeArquivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\8 - Csharp aplique boas pr\u00E1ticas de refatora\u00E7\u00E3o\\Alura.Adopet.Console\\Show.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Alura.Adopet.Console\\Show.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\8 - Csharp aplique boas pr\u00E1ticas de refatora\u00E7\u00E3o\\Alura.Adopet.Console\\Import.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Alura.Adopet.Console\\Import.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +38,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Help.cs",
+              "DocumentMoniker": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\8 - Csharp aplique boas pr\u00E1ticas de refatora\u00E7\u00E3o\\Alura.Adopet.Console\\Comandos\\Help.cs",
+              "RelativeDocumentMoniker": "Alura.Adopet.Console\\Comandos\\Help.cs",
+              "ToolTip": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\8 - Csharp aplique boas pr\u00E1ticas de refatora\u00E7\u00E3o\\Alura.Adopet.Console\\Comandos\\Help.cs",
+              "RelativeToolTip": "Alura.Adopet.Console\\Comandos\\Help.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T21:07:07.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Help.cs",
+              "DocumentMoniker": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\8 - Csharp aplique boas pr\u00E1ticas de refatora\u00E7\u00E3o\\Alura.Adopet.Console\\Help.cs",
+              "RelativeDocumentMoniker": "Alura.Adopet.Console\\Help.cs",
+              "ToolTip": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\8 - Csharp aplique boas pr\u00E1ticas de refatora\u00E7\u00E3o\\Alura.Adopet.Console\\Help.cs",
+              "RelativeToolTip": "Alura.Adopet.Console\\Help.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T20:55:16.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "LeitorDeArquivo.cs",
               "DocumentMoniker": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\8 - Csharp aplique boas pr\u00E1ticas de refatora\u00E7\u00E3o\\Alura.Adopet.Console\\LeitorDeArquivo.cs",
               "RelativeDocumentMoniker": "Alura.Adopet.Console\\LeitorDeArquivo.cs",
@@ -42,8 +74,7 @@
               "RelativeToolTip": "Alura.Adopet.Console\\LeitorDeArquivo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T21:48:58.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T21:48:58.325Z"
             },
             {
               "$type": "Document",
@@ -59,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Show.cs",
               "DocumentMoniker": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\8 - Csharp aplique boas pr\u00E1ticas de refatora\u00E7\u00E3o\\Alura.Adopet.Console\\Show.cs",
               "RelativeDocumentMoniker": "Alura.Adopet.Console\\Show.cs",
@@ -67,12 +98,11 @@
               "RelativeToolTip": "Alura.Adopet.Console\\Show.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T21:44:05.652Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-08T21:44:05.652Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Import.cs",
               "DocumentMoniker": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\8 - Csharp aplique boas pr\u00E1ticas de refatora\u00E7\u00E3o\\Alura.Adopet.Console\\Import.cs",
               "RelativeDocumentMoniker": "Alura.Adopet.Console\\Import.cs",
@@ -92,8 +122,7 @@
               "RelativeToolTip": "Alura.Adopet.Console\\Program.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T22:29:18.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-07T22:29:18.098Z"
             }
           ]
         }
