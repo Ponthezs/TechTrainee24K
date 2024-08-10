@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "7GYUWzgAMP0=",
+  "dgSpecHash": "x1w6YH3hKFo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\8 - Csharp aplique boas práticas de refatoração\\Alura.Adopet.Console\\Alura.Adopet.Console.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\GitHub Projects\\TechTrainee24K\\8 - Csharp aplique boas práticas de refatoração\\Alura.Adopet.Console\\Alura.Adopet.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ponte\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.19\\microsoft.windowsdesktop.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\ponte\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.19\\microsoft.netcore.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\ponte\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.19\\microsoft.aspnetcore.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\ponte\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.19\\microsoft.netcore.app.host.win-x64.7.0.19.nupkg.sha512"
+  ],
   "logs": []
 }
