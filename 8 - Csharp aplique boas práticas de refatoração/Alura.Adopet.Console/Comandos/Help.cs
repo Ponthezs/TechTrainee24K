@@ -15,7 +15,7 @@ namespace Alura.Adopet.Console.Comandos
              .Where(t => t.GetCustomAttributes<DocComando>().Any())
              .Select(t => t.GetCustomAttribute<DocComando>()!)
              .ToDictionary(d => d.Instrucao);
-        }
+        }   
 
         public Task ExecutarAsync(string[] args)
         {

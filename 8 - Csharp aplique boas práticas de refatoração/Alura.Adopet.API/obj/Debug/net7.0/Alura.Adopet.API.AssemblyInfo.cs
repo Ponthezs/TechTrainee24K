@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Alura.Adopet.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93b792f3569c23386794e931205519d57ea12405")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2918badf7a7f8a75efe5e33c1bad79af11d21f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Alura.Adopet.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Alura.Adopet.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
