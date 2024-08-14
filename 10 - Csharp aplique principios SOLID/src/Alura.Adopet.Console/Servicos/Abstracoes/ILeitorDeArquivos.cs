@@ -1,5 +1,7 @@
-﻿namespace Alura.Adopet.Console.Servicos.Abstracoes;
-public interface ILeitorDeArquivos<T>
+﻿using Alura.Adopet.Console.Modelos;
+
+namespace Alura.Adopet.Console.Servicos.Abstracoes;
+public interface ILeitorDeArquivos
 {
-    IEnumerable<T> RealizaLeitura();
+    IEnumerable<Pet> RealizaLeitura();
 }

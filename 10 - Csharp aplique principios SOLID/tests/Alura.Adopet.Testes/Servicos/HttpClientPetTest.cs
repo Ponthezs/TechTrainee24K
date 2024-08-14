@@ -1,5 +1,4 @@
 using Alura.Adopet.Console.Servicos.Http;
-using Alura.Adopet.Testes.Builder;
 using Moq;
 using Moq.Protected;
 using System.Net;
@@ -13,7 +12,11 @@ public class HttpClientPetTest
     public async Task ListaPetsDeveRetornarUmaListaNaoVazia()
     {
         //Arrange
-        var httpClient = HttpClientMockBuilder.GetMock(@"
+        var handlerMock = new Mock<HttpMessageHandler>();
+        var response = new HttpResponseMessage
+        {
+            StatusCode = HttpStatusCode.OK,
+            Content = new StringContent(@"
                      [
                         {
                             ""id"": ""ed48920c-5adb-4684-9b8f-ba8a94775a11"",
@@ -52,8 +55,19 @@ public class HttpClientPetTest
                             ""proprietario"": null
                         }
                     ]
-                ");
-        var clientePet = new PetService(httpClient.Object);
+                "),
+        };
+        handlerMock
+           .Protected()
+           .Setup<Task<HttpResponseMessage>>(
+              "SendAsync",
+              ItExpr.IsAny<HttpRequestMessage>(),
+              ItExpr.IsAny<CancellationToken>())
+           .ReturnsAsync(response);
+
+        var httpClient = new Mock<HttpClient>(MockBehavior.Default, handlerMock.Object);
+        httpClient.Object.BaseAddress = new Uri("http://localhost:5057");
+        var clientePet = new HttpClientPet(httpClient.Object);
 
         //Act
         var lista = await clientePet.ListAsync();
@@ -79,7 +93,7 @@ public class HttpClientPetTest
         var httpClient = new Mock<HttpClient>(MockBehavior.Default, handlerMock.Object);
         httpClient.Object.BaseAddress = new Uri("http://localhost:5057");
 
-        var clientePet = new PetService(httpClient.Object);
+        var clientePet = new HttpClientPet(httpClient.Object);
 
         //Act+Assert
         await Assert.ThrowsAnyAsync<Exception>(() => clientePet.ListAsync());
