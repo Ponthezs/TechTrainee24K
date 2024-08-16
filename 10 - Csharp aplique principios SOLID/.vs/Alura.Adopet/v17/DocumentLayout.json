@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\10 - Csharp aplique principios SOLID\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7CDC9E-F46B-4169-A2DD-9722F8208990}|src\\Alura.Adopet.Console\\Alura.Adopet.Console.csproj|c:\\users\\felipe.p\\documents\\github\\techtrainee24k\\10 - csharp aplique principios solid\\src\\alura.adopet.console\\servicos\\arquivos\\leitordearquivosjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7CDC9E-F46B-4169-A2DD-9722F8208990}|src\\Alura.Adopet.Console\\Alura.Adopet.Console.csproj|solutionrelative:src\\alura.adopet.console\\servicos\\arquivos\\leitordearquivosjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LeitorDeArquivosJson.cs",
+              "DocumentMoniker": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\10 - Csharp aplique principios SOLID\\src\\Alura.Adopet.Console\\Servicos\\Arquivos\\LeitorDeArquivosJson.cs",
+              "RelativeDocumentMoniker": "src\\Alura.Adopet.Console\\Servicos\\Arquivos\\LeitorDeArquivosJson.cs",
+              "ToolTip": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\10 - Csharp aplique principios SOLID\\src\\Alura.Adopet.Console\\Servicos\\Arquivos\\LeitorDeArquivosJson.cs",
+              "RelativeToolTip": "src\\Alura.Adopet.Console\\Servicos\\Arquivos\\LeitorDeArquivosJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T22:49:15.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
