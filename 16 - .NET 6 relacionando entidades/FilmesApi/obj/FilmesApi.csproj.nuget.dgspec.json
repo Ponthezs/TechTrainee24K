@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\16 - .NET 6 relacionando entidades\\FilmesApi\\FilmesApi.csproj": {}
+    "D:\\GitHub Projects\\TechTrainee24K\\16 - .NET 6 relacionando entidades\\FilmesApi\\FilmesApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\16 - .NET 6 relacionando entidades\\FilmesApi\\FilmesApi.csproj": {
+    "D:\\GitHub Projects\\TechTrainee24K\\16 - .NET 6 relacionando entidades\\FilmesApi\\FilmesApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\16 - .NET 6 relacionando entidades\\FilmesApi\\FilmesApi.csproj",
+        "projectUniqueName": "D:\\GitHub Projects\\TechTrainee24K\\16 - .NET 6 relacionando entidades\\FilmesApi\\FilmesApi.csproj",
         "projectName": "FilmesApi",
-        "projectPath": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\16 - .NET 6 relacionando entidades\\FilmesApi\\FilmesApi.csproj",
-        "packagesPath": "C:\\Users\\felipe.p\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\felipe.p\\Documents\\GitHub\\TechTrainee24K\\16 - .NET 6 relacionando entidades\\FilmesApi\\obj\\",
+        "projectPath": "D:\\GitHub Projects\\TechTrainee24K\\16 - .NET 6 relacionando entidades\\FilmesApi\\FilmesApi.csproj",
+        "packagesPath": "C:\\Users\\ponte\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub Projects\\TechTrainee24K\\16 - .NET 6 relacionando entidades\\FilmesApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\felipe.p\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ponte\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -91,24 +92,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"

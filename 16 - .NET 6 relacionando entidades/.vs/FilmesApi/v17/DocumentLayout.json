@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub Projects\\TechTrainee24K\\16 - .NET 6 relacionando entidades\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4BEC81-BF0A-4047-B1E8-B047A420D3AE}|FilmesApi\\FilmesApi.csproj|d:\\github projects\\techtrainee24k\\16 - .net 6 relacionando entidades\\filmesapi\\migrations\\20221220150742_sessao e cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4BEC81-BF0A-4047-B1E8-B047A420D3AE}|FilmesApi\\FilmesApi.csproj|solutionrelative:filmesapi\\migrations\\20221220150742_sessao e cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4BEC81-BF0A-4047-B1E8-B047A420D3AE}|FilmesApi\\FilmesApi.csproj|d:\\github projects\\techtrainee24k\\16 - .net 6 relacionando entidades\\filmesapi\\models\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4BEC81-BF0A-4047-B1E8-B047A420D3AE}|FilmesApi\\FilmesApi.csproj|solutionrelative:filmesapi\\models\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4BEC81-BF0A-4047-B1E8-B047A420D3AE}|FilmesApi\\FilmesApi.csproj|d:\\github projects\\techtrainee24k\\16 - .net 6 relacionando entidades\\filmesapi\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4BEC81-BF0A-4047-B1E8-B047A420D3AE}|FilmesApi\\FilmesApi.csproj|solutionrelative:filmesapi\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4BEC81-BF0A-4047-B1E8-B047A420D3AE}|FilmesApi\\FilmesApi.csproj|d:\\github projects\\techtrainee24k\\16 - .net 6 relacionando entidades\\filmesapi\\controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4BEC81-BF0A-4047-B1E8-B047A420D3AE}|FilmesApi\\FilmesApi.csproj|solutionrelative:filmesapi\\controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4BEC81-BF0A-4047-B1E8-B047A420D3AE}|FilmesApi\\FilmesApi.csproj|d:\\github projects\\techtrainee24k\\16 - .net 6 relacionando entidades\\filmesapi\\controllers\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4BEC81-BF0A-4047-B1E8-B047A420D3AE}|FilmesApi\\FilmesApi.csproj|solutionrelative:filmesapi\\controllers\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4BEC81-BF0A-4047-B1E8-B047A420D3AE}|FilmesApi\\FilmesApi.csproj|d:\\github projects\\techtrainee24k\\16 - .net 6 relacionando entidades\\filmesapi\\migrations\\filmecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4BEC81-BF0A-4047-B1E8-B047A420D3AE}|FilmesApi\\FilmesApi.csproj|solutionrelative:filmesapi\\migrations\\filmecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4BEC81-BF0A-4047-B1E8-B047A420D3AE}|FilmesApi\\FilmesApi.csproj|d:\\github projects\\techtrainee24k\\16 - .net 6 relacionando entidades\\filmesapi\\data\\filmecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4BEC81-BF0A-4047-B1E8-B047A420D3AE}|FilmesApi\\FilmesApi.csproj|solutionrelative:filmesapi\\data\\filmecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4BEC81-BF0A-4047-B1E8-B047A420D3AE}|FilmesApi\\FilmesApi.csproj|d:\\github projects\\techtrainee24k\\16 - .net 6 relacionando entidades\\filmesapi\\migrations\\20221220193849_cinema e filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4BEC81-BF0A-4047-B1E8-B047A420D3AE}|FilmesApi\\FilmesApi.csproj|solutionrelative:filmesapi\\migrations\\20221220193849_cinema e filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20221220150742_Sessao e Cinema.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\TechTrainee24K\\16 - .NET 6 relacionando entidades\\FilmesApi\\Migrations\\20221220150742_Sessao e Cinema.cs",
+              "RelativeDocumentMoniker": "FilmesApi\\Migrations\\20221220150742_Sessao e Cinema.cs",
+              "ToolTip": "D:\\GitHub Projects\\TechTrainee24K\\16 - .NET 6 relacionando entidades\\FilmesApi\\Migrations\\20221220150742_Sessao e Cinema.cs",
+              "RelativeToolTip": "FilmesApi\\Migrations\\20221220150742_Sessao e Cinema.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:03:04.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FilmeController.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\TechTrainee24K\\16 - .NET 6 relacionando entidades\\FilmesApi\\Controllers\\FilmeController.cs",
+              "RelativeDocumentMoniker": "FilmesApi\\Controllers\\FilmeController.cs",
+              "ToolTip": "D:\\GitHub Projects\\TechTrainee24K\\16 - .NET 6 relacionando entidades\\FilmesApi\\Controllers\\FilmeController.cs",
+              "RelativeToolTip": "FilmesApi\\Controllers\\FilmeController.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAcwDkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:01:00.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnderecoController.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\TechTrainee24K\\16 - .NET 6 relacionando entidades\\FilmesApi\\Controllers\\EnderecoController.cs",
+              "RelativeDocumentMoniker": "FilmesApi\\Controllers\\EnderecoController.cs",
+              "ToolTip": "D:\\GitHub Projects\\TechTrainee24K\\16 - .NET 6 relacionando entidades\\FilmesApi\\Controllers\\EnderecoController.cs",
+              "RelativeToolTip": "FilmesApi\\Controllers\\EnderecoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:00:52.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cinema.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\TechTrainee24K\\16 - .NET 6 relacionando entidades\\FilmesApi\\Models\\Cinema.cs",
+              "RelativeDocumentMoniker": "FilmesApi\\Models\\Cinema.cs",
+              "ToolTip": "D:\\GitHub Projects\\TechTrainee24K\\16 - .NET 6 relacionando entidades\\FilmesApi\\Models\\Cinema.cs",
+              "RelativeToolTip": "FilmesApi\\Models\\Cinema.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:00:49.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Endereco.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\TechTrainee24K\\16 - .NET 6 relacionando entidades\\FilmesApi\\Models\\Endereco.cs",
+              "RelativeDocumentMoniker": "FilmesApi\\Models\\Endereco.cs",
+              "ToolTip": "D:\\GitHub Projects\\TechTrainee24K\\16 - .NET 6 relacionando entidades\\FilmesApi\\Models\\Endereco.cs",
+              "RelativeToolTip": "FilmesApi\\Models\\Endereco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:00:47.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FilmeContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\TechTrainee24K\\16 - .NET 6 relacionando entidades\\FilmesApi\\Migrations\\FilmeContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "FilmesApi\\Migrations\\FilmeContextModelSnapshot.cs",
+              "ToolTip": "D:\\GitHub Projects\\TechTrainee24K\\16 - .NET 6 relacionando entidades\\FilmesApi\\Migrations\\FilmeContextModelSnapshot.cs",
+              "RelativeToolTip": "FilmesApi\\Migrations\\FilmeContextModelSnapshot.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:00:43.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FilmeContext.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\TechTrainee24K\\16 - .NET 6 relacionando entidades\\FilmesApi\\Data\\FilmeContext.cs",
+              "RelativeDocumentMoniker": "FilmesApi\\Data\\FilmeContext.cs",
+              "ToolTip": "D:\\GitHub Projects\\TechTrainee24K\\16 - .NET 6 relacionando entidades\\FilmesApi\\Data\\FilmeContext.cs",
+              "RelativeToolTip": "FilmesApi\\Data\\FilmeContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:00:40.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20221220193849_Cinema e Filme.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\TechTrainee24K\\16 - .NET 6 relacionando entidades\\FilmesApi\\Migrations\\20221220193849_Cinema e Filme.cs",
+              "RelativeDocumentMoniker": "FilmesApi\\Migrations\\20221220193849_Cinema e Filme.cs",
+              "ToolTip": "D:\\GitHub Projects\\TechTrainee24K\\16 - .NET 6 relacionando entidades\\FilmesApi\\Migrations\\20221220193849_Cinema e Filme.cs",
+              "RelativeToolTip": "FilmesApi\\Migrations\\20221220193849_Cinema e Filme.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:59:40.094Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
